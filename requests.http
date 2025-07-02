@@ -1,0 +1,2 @@
+@url = url/dev
+GET {{url}}/messages
